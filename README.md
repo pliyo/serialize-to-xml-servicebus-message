@@ -1,2 +1,2 @@
 # serialize-to-xml-servicebus-message
-Example of how to Serialise to XML, for example when using a Service Bus Message
+Example of how to Serialise to XML in .net core, and apply that content to a Service Bus Message
