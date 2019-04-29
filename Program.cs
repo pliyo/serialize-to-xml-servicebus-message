@@ -33,8 +33,9 @@ namespace Serialization
                 }
             }
 
-            var xmlInBytes = Encoding.UTF8.GetBytes(xml);
-            return new Message(xmlInBytes);
+            var base64Encode = Convert.ToBase64String(Encoding.UTF8.GetBytes(xml));
+            var xmlInBytesInBase64 = Encoding.UTF8.GetBytes(base64Encode);
+            return new Message(xmlInBytesInBase64);
         }
     }
 
