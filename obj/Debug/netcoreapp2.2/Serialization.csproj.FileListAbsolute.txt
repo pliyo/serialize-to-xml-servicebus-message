@@ -1,0 +1,11 @@
+C:\Users\pliyo\Development\Guestline\Pliyo\Serialization\bin\Debug\netcoreapp2.2\Serialization.deps.json
+C:\Users\pliyo\Development\Guestline\Pliyo\Serialization\bin\Debug\netcoreapp2.2\Serialization.runtimeconfig.json
+C:\Users\pliyo\Development\Guestline\Pliyo\Serialization\bin\Debug\netcoreapp2.2\Serialization.runtimeconfig.dev.json
+c:\Users\pliyo\Development\Guestline\Pliyo\Serialization\bin\Debug\netcoreapp2.2\Serialization.dll
+c:\Users\pliyo\Development\Guestline\Pliyo\Serialization\bin\Debug\netcoreapp2.2\Serialization.pdb
+c:\Users\pliyo\Development\Guestline\Pliyo\Serialization\obj\Debug\netcoreapp2.2\Serialization.csprojAssemblyReference.cache
+c:\Users\pliyo\Development\Guestline\Pliyo\Serialization\obj\Debug\netcoreapp2.2\Serialization.csproj.CoreCompileInputs.cache
+c:\Users\pliyo\Development\Guestline\Pliyo\Serialization\obj\Debug\netcoreapp2.2\Serialization.AssemblyInfoInputs.cache
+c:\Users\pliyo\Development\Guestline\Pliyo\Serialization\obj\Debug\netcoreapp2.2\Serialization.AssemblyInfo.cs
+c:\Users\pliyo\Development\Guestline\Pliyo\Serialization\obj\Debug\netcoreapp2.2\Serialization.dll
+c:\Users\pliyo\Development\Guestline\Pliyo\Serialization\obj\Debug\netcoreapp2.2\Serialization.pdb
